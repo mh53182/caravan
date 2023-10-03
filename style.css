@@ -234,8 +234,8 @@ footer {
   color: #ffffff;
 }
 
-/*メディアクエリは最後に書く*/
 
+/*メディアクエリは最後に書く*/
 
 /*スマホサイズ（425px）以下で適用*/
 @media screen and (max-width:425px) {
